@@ -1,0 +1,2 @@
+-- Verify CUSTOMERS table
+SELECT * FROM CUSTOMERS;

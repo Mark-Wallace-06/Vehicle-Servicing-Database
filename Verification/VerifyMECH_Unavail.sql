@@ -1,0 +1,2 @@
+-- Verify MECH_UNAVAIL table
+SELECT * FROM MECH_UNAVAIL;

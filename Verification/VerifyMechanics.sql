@@ -1,0 +1,2 @@
+-- Verify MECHANICS table
+SELECT * FROM MECHANICS;

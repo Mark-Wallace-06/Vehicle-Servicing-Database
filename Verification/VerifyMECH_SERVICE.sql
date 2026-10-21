@@ -1,0 +1,2 @@
+-- Verify MECH_SERVICE table
+SELECT * FROM MECH_SERVICE;

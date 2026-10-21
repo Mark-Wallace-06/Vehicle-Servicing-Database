@@ -1,0 +1,2 @@
+-- Verify SERVICES table
+SELECT * FROM SERVICES;
